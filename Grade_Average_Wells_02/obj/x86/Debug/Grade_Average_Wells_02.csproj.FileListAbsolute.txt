@@ -1,0 +1,61 @@
+c:\users\1283892\documents\visual studio 2010\Projects\Grade_Average_Wells_02\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.exe
+c:\users\1283892\documents\visual studio 2010\Projects\Grade_Average_Wells_02\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.pdb
+c:\users\1283892\documents\visual studio 2010\Projects\Grade_Average_Wells_02\Grade_Average_Wells_02\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\1283892\documents\visual studio 2010\Projects\Grade_Average_Wells_02\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Form1.resources
+c:\users\1283892\documents\visual studio 2010\Projects\Grade_Average_Wells_02\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Properties.Resources.resources
+c:\users\1283892\documents\visual studio 2010\Projects\Grade_Average_Wells_02\Grade_Average_Wells_02\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\1283892\documents\visual studio 2010\Projects\Grade_Average_Wells_02\Grade_Average_Wells_02\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\1283892\documents\visual studio 2010\Projects\Grade_Average_Wells_02\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.exe
+c:\users\1283892\documents\visual studio 2010\Projects\Grade_Average_Wells_02\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.pdb
+\\ctcfs01\tstecker\Dropbox\10311-1894800-2-02\Wells, Matthew\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.exe
+\\ctcfs01\tstecker\Dropbox\10311-1894800-2-02\Wells, Matthew\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.pdb
+\\ctcfs01\tstecker\Dropbox\10311-1894800-2-02\Wells, Matthew\Grade_Average_Wells\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.exe
+\\ctcfs01\tstecker\Dropbox\10311-1894800-2-02\Wells, Matthew\Grade_Average_Wells\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.pdb
+\\ctcfs01\tstecker\Dropbox\10311-1894800-2-02\Wells, Matthew\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ctcfs01\tstecker\Dropbox\10311-1894800-2-02\Wells, Matthew\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Form1.resources
+\\ctcfs01\tstecker\Dropbox\10311-1894800-2-02\Wells, Matthew\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Properties.Resources.resources
+\\ctcfs01\tstecker\Dropbox\10311-1894800-2-02\Wells, Matthew\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ctcfs01\tstecker\Dropbox\10311-1894800-2-02\Wells, Matthew\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1283892\Desktop\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.exe
+C:\Users\1283892\Desktop\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.pdb
+C:\Users\1283892\Desktop\Grade_Average_Wells\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.exe
+C:\Users\1283892\Desktop\Grade_Average_Wells\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.pdb
+C:\Users\1283892\Desktop\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1283892\Desktop\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Form1.resources
+C:\Users\1283892\Desktop\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Properties.Resources.resources
+C:\Users\1283892\Desktop\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\1283892\Desktop\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.exe
+E:\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.pdb
+E:\Grade_Average_Wells\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.exe
+E:\Grade_Average_Wells\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.pdb
+E:\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Form1.resources
+E:\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Properties.Resources.resources
+E:\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.exe
+L:\Grade_Average_Wells\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.pdb
+C:\Users\1283892\Desktop\Grade_Average_Wells - Copy\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.exe
+C:\Users\1283892\Desktop\Grade_Average_Wells - Copy\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.pdb
+C:\Users\1283892\Desktop\Grade_Average_Wells - Copy\Grade_Average_Wells_02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1283892\Desktop\Grade_Average_Wells - Copy\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Form1.resources
+C:\Users\1283892\Desktop\Grade_Average_Wells - Copy\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Properties.Resources.resources
+C:\Users\1283892\Desktop\Grade_Average_Wells - Copy\Grade_Average_Wells_02\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\1283892\Desktop\Grade_Average_Wells - Copy\Grade_Average_Wells_02\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1283892\Desktop\Grade_Average_Wells - Copy\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.exe
+C:\Users\1283892\Desktop\Grade_Average_Wells - Copy\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.pdb
+W:\Desktop\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.exe
+W:\Desktop\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.pdb
+W:\Desktop\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.exe
+W:\Desktop\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.pdb
+W:\Desktop\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Form1.resources
+W:\Desktop\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Properties.Resources.resources
+W:\Desktop\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.csproj.GenerateResource.Cache
+C:\Users\mwells21\OneDrive - University of North Carolina at Charlotte\Personal\GradeCalc\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.exe
+C:\Users\mwells21\OneDrive - University of North Carolina at Charlotte\Personal\GradeCalc\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.pdb
+C:\Users\mwells21\OneDrive - University of North Carolina at Charlotte\Personal\GradeCalc\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.exe
+C:\Users\mwells21\OneDrive - University of North Carolina at Charlotte\Personal\GradeCalc\Grade_Average_Wells_02\bin\Debug\Grade_Average_Wells_02.pdb
+C:\Users\mwells21\OneDrive - University of North Carolina at Charlotte\Personal\GradeCalc\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Form1.resources
+C:\Users\mwells21\OneDrive - University of North Carolina at Charlotte\Personal\GradeCalc\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.Properties.Resources.resources
+C:\Users\mwells21\OneDrive - University of North Carolina at Charlotte\Personal\GradeCalc\Grade_Average_Wells_02\obj\x86\Debug\Grade_Average_Wells_02.csproj.GenerateResource.Cache
